@@ -1,0 +1,16 @@
+D:\VS\All_Home_Works\Home Work-1 degree-1\bin\Debug\Home Work-1 degree-1.exe.config
+D:\VS\All_Home_Works\Home Work-1 degree-1\bin\Debug\Home Work-1 degree-1.exe
+D:\VS\All_Home_Works\Home Work-1 degree-1\bin\Debug\Home Work-1 degree-1.pdb
+D:\VS\All_Home_Works\Home Work-1 degree-1\obj\Debug\Home Work-1 degree-1.csproj.AssemblyReference.cache
+D:\VS\All_Home_Works\Home Work-1 degree-1\obj\Debug\Home Work-1 degree-1.csproj.SuggestedBindingRedirects.cache
+D:\VS\All_Home_Works\Home Work-1 degree-1\obj\Debug\Home Work-1 degree-1.csproj.CoreCompileInputs.cache
+D:\VS\All_Home_Works\Home Work-1 degree-1\obj\Debug\Home Work-1 degree-1.exe
+D:\VS\All_Home_Works\Home Work-1 degree-1\obj\Debug\Home Work-1 degree-1.pdb
+D:\VS\All_Home_Works\HomeWork-1-degree\bin\Debug\Home Work-1 degree-1.exe.config
+D:\VS\All_Home_Works\HomeWork-1-degree\bin\Debug\Home Work-1 degree-1.exe
+D:\VS\All_Home_Works\HomeWork-1-degree\bin\Debug\Home Work-1 degree-1.pdb
+D:\VS\All_Home_Works\HomeWork-1-degree\obj\Debug\Home Work-1 degree-1.csproj.AssemblyReference.cache
+D:\VS\All_Home_Works\HomeWork-1-degree\obj\Debug\Home Work-1 degree-1.csproj.SuggestedBindingRedirects.cache
+D:\VS\All_Home_Works\HomeWork-1-degree\obj\Debug\Home Work-1 degree-1.csproj.CoreCompileInputs.cache
+D:\VS\All_Home_Works\HomeWork-1-degree\obj\Debug\Home Work-1 degree-1.exe
+D:\VS\All_Home_Works\HomeWork-1-degree\obj\Debug\Home Work-1 degree-1.pdb
